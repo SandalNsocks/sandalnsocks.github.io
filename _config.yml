@@ -28,13 +28,9 @@ projects:
     # - repo-name
 
 social_media:
-  website: http://www.gautamkrishnar.com
-  stackoverflow: 4214976
-  twitter: gautamkrishnar
-  facebook: gautamkrishnar
-  linkedin: gautamkrishnar
-  instagram: gautamkrishnar
-  medium: '@gautamkrishnar'
+  website: http://www.lovern.io
+  twitter: __jameslovern
+  instagram: _jameslovern
 
 theme: null
 topics:
